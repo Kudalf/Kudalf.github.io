@@ -61,4 +61,7 @@
 
 
 
-[1]: https://kudalf.github.io/geo_line_plane.html
+[1]: https://kudalf.github.io/dengxiaoping.html
+[2]: https://kudalf.github.io/cable.html
+[3]: https://kudalf.github.io/地方对中央财政依赖度地图_map.html
+[4]: https://kudalf.github.io/blhx.html
