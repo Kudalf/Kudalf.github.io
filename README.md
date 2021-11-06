@@ -1,6 +1,6 @@
 # Homework for PKU python course
 
-## [字节员工家乡分布密度图][1]
+## [Chinese government's revenue over years][1]
 ## [Cables in the world][2]
 ## [Frequency analysis of characters in the book 《deng xiaoping and the transformation of china》][3]
 ## [Chinese provinces' financial dependenceon the central government][4]
